@@ -1,0 +1,1 @@
+# Real-time-forecasting-with-BQML-and-VertexAI-pipelines
